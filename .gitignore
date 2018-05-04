@@ -1,0 +1,6 @@
+node_modules
+travis.yml
+scss
+nbproject/
+package-lock.json
+teste.js
